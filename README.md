@@ -1,0 +1,2 @@
+# guix-channel
+Guix Channel
